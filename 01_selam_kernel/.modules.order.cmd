@@ -1,0 +1,1 @@
+cmd_/home/huseyin/Desktop/linux_driver_development/linux_driver_tutorial/01_selam_kernel/modules.order := {   echo /home/huseyin/Desktop/linux_driver_development/linux_driver_tutorial/01_selam_kernel/selam_module.ko; :; } | awk '!x[$$0]++' - > /home/huseyin/Desktop/linux_driver_development/linux_driver_tutorial/01_selam_kernel/modules.order
